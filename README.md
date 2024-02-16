@@ -1,6 +1,8 @@
-# App_Lanche Online
-## Desenvolvido em React Native 
-Aplicativo de delivery do seu lanche!
+# App Lanche Online
+-------------
+### Desenvolvido em React Native 
+-------------
+Aplicativo para delivery do seu lanche!
 
 
 ## :camera_flash: Screenshots
