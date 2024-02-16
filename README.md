@@ -1,5 +1,4 @@
 # App Lanche Online
-#
 ### Desenvolvido em React Native 
 #
 ### Aplicativo para delivery do seu lanche!
